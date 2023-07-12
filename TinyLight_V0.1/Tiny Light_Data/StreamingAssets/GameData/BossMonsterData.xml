@@ -1,0 +1,27 @@
+<BossMonster>
+	<失控的魔典>
+		<Lv1>
+			<!--最大暗影值-->
+			<MaxShaVal>100</MaxShaVal>
+			<ShaValRestore>12.5</ShaValRestore>
+			<InitShaVal>0.45</InitShaVal>
+			<Atk>450</Atk>
+			<Hp>4000</Hp>
+			<Pdef>75</Pdef>
+			<Mdef>100</Mdef>
+			<AtkWill1>0.4</AtkWill1>
+			<ScareProb>0.2</ScareProb>
+			<AtkProbPlus>0.05</AtkProbPlus>
+			<!--二阶段暗影值要求-->
+			<ShaValReq2>0.35</ShaValReq2>
+			<AtkPlus2>0.15</AtkPlus2>
+			<DefPlus2>0.35</DefPlus2>
+			<AtkWill2>0.5</AtkWill2>
+			<!--三阶段暗影值要求-->
+			<ShaValReq3>0.65</ShaValReq3>
+			<AtkPlus3>0.3</AtkPlus3>
+			<DefPlus3>0.7</DefPlus3>
+			<AtkWill3>0.65</AtkWill3>
+		</Lv1>
+	</失控的魔典>
+</BossMonster>

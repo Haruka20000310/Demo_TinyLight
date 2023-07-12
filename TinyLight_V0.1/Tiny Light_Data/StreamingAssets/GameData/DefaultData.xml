@@ -1,0 +1,73 @@
+<?xml version ="1.0" encoding="utf-8"?>
+<Player><!--root node-->
+	<PhyPlayer><!--node-->
+		
+		<!--最大光照值 node-->
+		<MaxLV>50</MaxLV>
+		<!--初始光照值-->
+		<DefInitLV>0.5</DefInitLV>
+		<!--默认光照值回复-->
+		<DefLVRestore>10</DefLVRestore>
+		<!--默认光照值消耗-->
+		<DefLVConsume>1</DefLVConsume>
+		<!--光照值等级要求-->
+		<ReqLV3>0.7</ReqLV3>
+		<ReqLV2>0.3</ReqLV2>
+		<!--技能充能效率-->
+		<SkillChargeSpeed1>0.8</SkillChargeSpeed1>
+		<SkillChargeSpeed2>1.0</SkillChargeSpeed2>
+		<SkillChargeSpeed3>1.3</SkillChargeSpeed3>
+		<!--暗影削减效率-->
+		<ShadowCutSpeed1>0.75</ShadowCutSpeed1>
+		<ShadowCutSpeed2>1.0</ShadowCutSpeed2>
+		<ShadowCutSpeed3>1.5</ShadowCutSpeed3>
+		<!--生命治疗效率-->
+		<HealSpeed1>0.01</HealSpeed1>
+		<HealSpeed2>0.0125</HealSpeed2>
+		<HealSpeed3>0.015</HealSpeed3>
+		<!--技能数据-->
+		<Skill>
+			<Skill1 name="S1">
+				<ChargeValueReq1>4</ChargeValueReq1>
+				<ChargeValueReq2>6</ChargeValueReq2>
+				<ChargeValueReq3>10</ChargeValueReq3>
+				<DefCoolDown>1</DefCoolDown>
+			</Skill1>
+			<Skill2 name="S2">
+				<ChargeValueReq1>6</ChargeValueReq1>
+				<ChargeValueReq2>8</ChargeValueReq2>
+				<ChargeValueReq3>14</ChargeValueReq3>
+				<DefCoolDown>2</DefCoolDown>
+			</Skill2>
+			<Skill3 name="S3">
+				<ChargeValueReq1>8</ChargeValueReq1>
+				<ChargeValueReq2>12</ChargeValueReq2>
+				<ChargeValueReq3>20</ChargeValueReq3>
+				<DefCoolDown>4</DefCoolDown>
+			</Skill3>
+			<Skill4 name="S4">
+				<ChargeValueReq1>待定</ChargeValueReq1>
+				<ChargeValueReq2>待定</ChargeValueReq2>
+				<ChargeValueReq3>待定</ChargeValueReq3>
+				<DefCoolDown>?</DefCoolDown>
+			</Skill4>
+		</Skill>
+	</PhyPlayer>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<MagPlayer></MagPlayer>
+</Player>
