@@ -1,0 +1,23 @@
+<?xml version ="1.0" encoding="utf-8"?>
+<Map>
+	<Level1>
+		<TotalRoomNum>25</TotalRoomNum>
+		<RoadNum>3</RoadNum>
+		<GreenNum>3</GreenNum>
+		<YellowNum>2</YellowNum>
+		<MaxSpringNum>2</MaxSpringNum>
+		<MinSpringNum>1</MinSpringNum>
+		<MaxSpecialNum>5</MaxSpecialNum>
+		<MinSpecialNum>2</MinSpecialNum>
+		<MaxAdvNum>8</MaxAdvNum>
+		<MinAdvNum>5</MinAdvNum>
+	</Level1>
+	
+	<Level2>
+		
+	</Level2>
+	
+	<Level3>
+		
+	</Level3>
+</Map>
