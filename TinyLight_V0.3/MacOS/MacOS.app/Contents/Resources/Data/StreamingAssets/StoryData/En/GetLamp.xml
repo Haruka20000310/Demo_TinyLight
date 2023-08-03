@@ -1,0 +1,36 @@
+<?xml version ="1.0" encoding="utf-8"?>
+<Story>
+	<Content>
+		<Sprite>null</Sprite>
+		<Talker1>null</Talker1>
+		<Talker2>null</Talker2>
+		<Text>(This is an exquisite silver lantern with a flickering flame inside. Though not very strong, it still emits a comforting warm glow in this forest.)</Text>
+	</Content>
+	<Content>
+		<Sprite>null</Sprite>
+		<Talker1>player</Talker1>
+		<Talker2>null</Talker2>
+		<Text>It's......?</Text>
+	</Content>
+	<Content>
+		<Sprite>null</Sprite>
+		<Talker1>null</Talker1>
+		<Talker2>null</Talker2>
+		<Text>(You gently lift it up.)</Text>
+	</Content>
+	<Content>
+		<Sprite>null</Sprite>
+		<Talker1>player</Talker1>
+		<Talker2>null</Talker2>
+		<Text>!!!</Text>
+	</Content>
+	<Content>
+		<Sprite>null</Sprite>
+		<Talker1>null</Talker1>
+		<Talker2>null</Talker2>
+		<Text>(Some kind of dependence, some kind of connection, seems to have been established. A warm current emanates from the lantern, flowing through your arm and spreading throughout your entire body. The physical and mental discomfort you were experiencing is immediately alleviated by half. In that moment, you understand that it is essential to you, and you must take it with you --- even if no one has explicitly told you so.)</Text>
+	</Content>
+	<Content>
+		<Script>TakeLamp</Script>
+	</Content>
+</Story>

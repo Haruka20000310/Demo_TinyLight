@@ -1,0 +1,510 @@
+<?xml version ="1.0" encoding="utf-8"?>
+<Local>
+	<QuitGameDoubleCheck>
+		<En>Are you sure to quit the game?</En>
+		<Ch>确定要退出游戏吗？</Ch>
+	</QuitGameDoubleCheck>
+	<Start_InvalidName>
+		<En>You must have a name, you know that. Try to recall it again......</En>
+		<Ch>你一定有一个名字，你知道的。尝试回想起来......</Ch>
+	</Start_InvalidName>
+	<Start_DontHaveLantern>
+		<En>The darkness inside the cave is too strong, it is better not to venture ahead without a <![CDATA[<b>light source</b>]]>.</En>
+		<Ch>洞内的黑暗宛如实质，没有准备<![CDATA[<b>光源</b>]]>的话，还是不要冒然前进为好</Ch>
+	</Start_DontHaveLantern>
+	<Start_ConfirmEnterCave>
+		<En>The lantern should be useful, are you sure to enter the cave?</En>
+		<Ch>提灯应该能够派上用场，确定要进入吗？</Ch>
+	</Start_ConfirmEnterCave>
+	<Map_Start>
+		<En>This is the place where you start{0}The lamp in your hand gives you reassuring light, try to go deeper!</En>
+		<Ch>这是你的启程之地{0}手中的提灯散发出让你安心的光芒，试着向深处前进吧</Ch>
+	</Map_Start>
+	<Map_Current>
+		<En>This is your current position.</En>
+		<Ch>你正处于该处地点</Ch>
+	</Map_Current>
+	<Map_Completed>
+		<En>This level has been completed.</En>
+		<Ch>该处地点已完成</Ch>
+	</Map_Completed>
+	<Map_GoAtherComplete>
+		<En>You still have uncompleted content in current level before go to this place......</En>
+		<Ch>在前往该处地点之前，你在当前地点仍有未完成之事......</Ch>
+	</Map_GoAtherComplete>
+	<Map_CompletedAndGo>
+		<En>You are current in this level and have completed relevant content. It's time to decide the next destination.</En>
+		<Ch>你正处于该处地点并且已完成相关内容，是时候决定下一个地点了</Ch>
+	</Map_CompletedAndGo>
+	<Map_CannotGo>
+		<En>Cannot go to this level for now.</En>
+		<Ch>该处地点暂时无法前往</Ch>
+	</Map_CannotGo>
+	<Map_Quit>
+		<En>Are you sure to quit? Current progress and generated level will all lost.</En>
+		<Ch>确定要退出吗？已生成的关卡与当前进度将全部丢失</Ch>
+	</Map_Quit>
+	<Map_BackRoomAsk>
+		<En>Here, the obstacles are numerous and exceptionally rugged, but it appears that you can expend 25 Light Fragments to open it up and create a new path. Do you want to take a try?</En>
+		<Ch>此处障碍重重，崎岖异常，但是似乎可以消耗25微光碎片将其开拓，使其成为新的道路，要试试吗？</Ch>
+	</Map_BackRoomAsk>
+	<Map_BackRoomNotEnough>
+		<En>You do not appear to be holding enough Light Fragments to open the path......</En>
+		<Ch>似乎未持有足够的微光碎片，无法开辟道路......</Ch>
+	</Map_BackRoomNotEnough>
+	<LoseText>
+		<En>LoseText</En>
+		<Ch>你未能战胜敌人，本次冒险不得不止步于此。尝试谨慎选择路线，了解敌人，合理分配光照值，应该能为下次冒险提供助力......{0}即将返回启程之地。</Ch>
+	</LoseText>
+	<LightGrace_Upgrade>
+		<En>The Light Grace &lt;{0}&gt; is upgraded to: {1}</En>
+		<Ch>微光赐福 &lt;{0}&gt; 已升级至：{1}</Ch>
+	</LightGrace_Upgrade>
+	<LightGrace_MaxLevel>
+		<En>The Light Grace &lt;{0}&gt; has reached to maximum level, {1} Light Fragment returned</En>
+		<Ch>微光赐福 &lt;{0}&gt; 已升至最高等级，已返还 {1} 微光碎片</Ch>
+	</LightGrace_MaxLevel>
+	<SpecialBattleWin>
+		<En>You won the special combat, and the weapon left by someone emits a slight tremor, as if someone is saluting you ......{0}This level has been completed and you are about to leave.</En>
+		<Ch>特殊战斗胜利，谁人遗落的武器发出轻微的颤动，似是有人在向你致意......{0}该处内容已完成，将自动离开此地</Ch>
+	</SpecialBattleWin>
+	<SpecialRoomTitle>
+		<En>The visibility here is so low that it's impossible to see what's going on around you{0}There's a thick black shadow churning in the centre of the field, and something seems to be looming behind it......</En>
+		<Ch>此处能见度很低，无法看清周围的情况{0}场地中央翻涌着一团浓厚的黑影，在其后似乎有某物若隐若现......</Ch>
+	</SpecialRoomTitle>
+	<BoxName>
+		<En>The Mystery Box</En>
+		<Ch>未知之匣</Ch>
+	</BoxName>
+	<BoxDescription>
+		<En>Its thirst for shimmering debris can be clearly felt ......</En>
+		<Ch>可以很明显地感受到它对于微光残片的渴求......</Ch>
+	</BoxDescription>
+	<MiniSpringName>
+		<En>The remains of The Relic of Flowing Light Fountain</En>
+		<Ch>流光之泉遗迹的残骸</Ch>
+	</MiniSpringName>
+	<MiniSpringDescription>
+		<En>Still retains some of the power of The Relic of Flowing Light Fountain......</En>
+		<Ch>仍然保留着部分流光之泉遗迹的力量......</Ch>
+	</MiniSpringDescription>
+	<WeaponName>
+		<En>The Lost Weapon</En>
+		<Ch>遗落的武器</Ch>
+	</WeaponName>
+	<WeaponDescription>
+		<En>Relic of unknown warrior on which rests the unfinished will......</En>
+		<Ch>无名勇士的遗物，其上寄托着未竟的意志......</Ch>
+	</WeaponDescription>
+	<SpecialBattleDes1>
+		<En>Start a special combat, during which the Light Value restore amount is increased by 100%</En>
+		<Ch>开始一场特殊战斗，期间光照值回复量提升100%</Ch>
+	</SpecialBattleDes1>
+	<SpecialBattleDes2>
+		<En>Start a special combat, during which the Critical Rate and Critical DMG is increased by 50% and 100%, respectively</En>
+		<Ch>开始一场特殊战斗，期间暴击率、暴击伤害分别提升50%、100%</Ch>
+	</SpecialBattleDes2>
+	<SpecialBattleDes3>
+		<En>Start a special combat, during which the Shadow Value reduce speed is increased by 100%, and monster under Breakdown status take 50% more DMG</En>
+		<Ch>开始一场特殊战斗，期间暗影值削减效率提升100%，且Breakdown状态下的敌人受到伤害额外提高50%</Ch>
+	</SpecialBattleDes3>
+	<BoxExtraGift>
+		<En>The investment pays off in the end, you received extra reward:</En>
+		<Ch>投入终有回报，你从匣中额外获得了：</Ch>
+	</BoxExtraGift>
+	<BoxNormalGift>
+		<En>The box suddenly glows brightly, and you have gained:</En>
+		<Ch>匣中突然光芒大放，你获得了：</Ch>
+	</BoxNormalGift>
+	<SpringFree>
+		<En>Gained some of the graces left in the remains of The Relic of Flowing Light Fountain{0}This level has been completed and you are about to leave</En>
+		<Ch>获得了流光之泉遗迹残骸中留存的些许馈赠{0}该处内容已完成，将自动离开此地</Ch>
+	</SpringFree>
+	<SpringCost>
+		<En>The Light Fragment activated the power in the remains of The Relic of Flowing Light Fountain, and you are rewarded lots of graces{0}This level has been completed and you are about to leave</En>
+		<Ch>微光碎片激活了流光之泉遗迹残骸中的力量，使你获得了许多馈赠{0}该处内容已完成，将自动离开此地</Ch>
+	</SpringCost>
+	<SpringNotEnough>
+		<En>Light Fragment is not enough, cannot receive extra grace from the remains of The Relic of Flowing Light Fountain</En>
+		<Ch>微光碎片不足，无法获取额外的来自流光之泉遗迹残骸中的馈赠</Ch>
+	</SpringNotEnough>
+	<BoxNotEnough>
+		<En>Current holdings of Light Fragment don't seem to be enough for The Mystery Box......</En>
+		<Ch>当前所持有的微光碎片似乎并不足以满足神秘匣子的需求......</Ch>
+	</BoxNotEnough>
+	<BoxNoResponse>
+		<En>You look into the dark and bottomless mouth of The Mystery Box, and the Light Fragments you put into it make no echo......</En>
+		<Ch>你看着漆黑而无底的匣口，所投入的微光碎片没有发出任何回响......</Ch>
+	</BoxNoResponse>
+	<BoxRefresh_1>
+		<En>Cost {0} Light Fragment, {1}% rate to get a random Lv. 1 Light Grace</En>
+		<Ch>消耗{0}微光碎片，{1}%概率获取一个随机1级微光赐福</Ch>
+	</BoxRefresh_1>
+	<BoxRefresh_2>
+		<En>, {0}% rate to get an additional random Lv. 2 Light Grace</En>
+		<Ch>，{0}%概率额外获取一个随机2级微光赐福</Ch>
+	</BoxRefresh_2>
+	<BoxFinish>
+		<En>The heavy shadow of the mouth of The Mystery Box dissipated, and the shallow bottom of it could be seen clearly --- it was now no different from an ordinary box{0}This level has been completed and you are about to leave</En>
+		<Ch>神秘匣子口部的浓重阴影消散了，可以将浅浅的匣底看得一清二楚———现在的它和一只普通的匣子并无二致{0}该处内容已完成，将自动离开此地</Ch>
+	</BoxFinish>
+	<BoxQuit>
+		<En>Are you sure to exit directly? There's no way to return to here again</En>
+		<Ch>确定要直接退出吗？退出后将无法再次返回此处</Ch>
+	</BoxQuit>
+	<SpringRoomNotEnough>
+		<En>You do not appear to be holding enough Light Fragments, The Relic of Flowing Light Fountain is not giving any responses......</En>
+		<Ch>似乎未持有足够的微光碎片，流光之泉遗迹没有产生任何回应......</Ch>
+	</SpringRoomNotEnough>
+	<SpringRoomPowerGone>
+		<En>A portion of the power of The Relic of Flowing Light Fountain dissipated......</En>
+		<Ch>流光之泉遗迹的一部分力量消散了......</Ch>
+	</SpringRoomPowerGone>
+	<SpringRoomTitle1>
+		<En>The Relic of Flowing Light Fountain</En>
+		<Ch>流光之泉遗迹</Ch>
+	</SpringRoomTitle1>
+	<SpringRoomTitle2>
+		<En>The light-dwelling place</En>
+		<Ch>光明栖身之所</Ch>
+	</SpringRoomTitle2>
+	<LightGracePick>
+		<En>Choose {0} Lv. {1} Light Grace</En>
+		<Ch>选择{0}个{1}级微光赐福</Ch>
+	</LightGracePick>
+	<LightGracePick_Special1>
+		<En>Gained some of the power left in the weapon</En>
+		<Ch>获得了武器中残余的些许力量</Ch>
+	</LightGracePick_Special1>
+	<LightGracePick_Special2>
+		<En>Gained much of the power left in the weapon</En>
+		<Ch>获得了武器中残余的许多力量</Ch>
+	</LightGracePick_Special2>
+
+	<BuffList_Up>
+		<En> &lt;color=green&gt;UP&lt;/color&gt;</En>
+		<Ch>&lt;color=green&gt;提高&lt;/color&gt;</Ch>
+	</BuffList_Up>
+	<DebuffList_Down>
+		<En> &lt;color=red&gt;DOWN&lt;/color&gt;</En>
+		<Ch>&lt;color=red&gt;降低&lt;/color&gt;</Ch>
+	</DebuffList_Down>
+	<Atk>
+		<En>Attack</En>
+		<Ch>攻击力</Ch>
+	</Atk>
+	<CDmg>
+		<En>Critical Damage</En>
+		<Ch>暴击伤害</Ch>
+	</CDmg>
+	<CRate>
+		<En>Critical Rate</En>
+		<Ch>暴击率</Ch>
+	</CRate>
+	<Dmg>
+		<En>All Damage</En>
+		<Ch>全伤害</Ch>
+	</Dmg>
+	<Heal>
+		<En>Heal Effect</En>
+		<Ch>治疗效率</Ch>
+	</Heal>
+	<Hp>
+		<En>Max Health</En>
+		<Ch>最大生命值</Ch>
+	</Hp>
+	<LightValueConsume>
+		<En>Light Value Consume Speed</En>
+		<Ch>光照值消耗速度</Ch>
+	</LightValueConsume>
+	<LightValueRestore>
+		<En>Light Value Restore Amount</En>
+		<Ch>光照值回复量</Ch>
+	</LightValueRestore>
+	<MDef>
+		<En>Magical Defence</En>
+		<Ch>魔法防御</Ch>
+	</MDef>
+	<PDef>
+		<En>Physical Defence</En>
+		<Ch>物理防御</Ch>
+	</PDef>
+	<ShadowCut>
+		<En>Shadow Value Reduce Effect</En>
+		<Ch>暗影值削减效率</Ch>
+	</ShadowCut>
+	<ShadowCutResist>
+		<En>Shadow Value Reduce Resistance</En>
+		<Ch>暗影值削减抵抗</Ch>
+	</ShadowCutResist>
+	<SkillCharge>
+		<En>Skill Stone Charge Effect</En>
+		<Ch>技能石充能效率</Ch>
+	</SkillCharge>
+	<TakeDmgDown>
+		<En>All Damage Defence</En>
+		<Ch>全伤害减免</Ch>
+	</TakeDmgDown>
+	<TakeDmgUp>
+		<En>All Damage Defence</En>
+		<Ch>全伤害减免</Ch>
+	</TakeDmgUp>
+	<ShadowValueRestore>
+		<En>Shadow Value Restore Amount</En>
+		<Ch>暗影值回复量</Ch>
+	</ShadowValueRestore>
+
+	<LightGrace_Lv>
+		<En>Lv. {0}</En>
+		<Ch>等级：{0}</Ch>
+	</LightGrace_Lv>
+	<LightGrace_Exist>
+		<En>Existing {0}</En>
+		<Ch>已拥有 {0}</Ch>
+	</LightGrace_Exist>
+
+	<BattleStartHeal>
+		<En>Pre-Combat Supply</En>
+		<Ch>战前补给</Ch>
+	</BattleStartHeal>
+	<HealEffectUp>
+		<En>The Healer</En>
+		<Ch>疗愈者</Ch>
+	</HealEffectUp>
+	<HealAndCharge>
+		<En>Genius</En>
+		<Ch>奇才</Ch>
+	</HealAndCharge>
+	<MoreThan60>
+		<En>Loftiness</En>
+		<Ch>气势</Ch>
+	</MoreThan60>
+	<DefenceAllDmg>
+		<En>Unswerving Faith</En>
+		<Ch>坚毅信念</Ch>
+	</DefenceAllDmg>
+	<BKHealCharge>
+		<En>Extend Lead</En>
+		<Ch>乘胜追击</Ch>
+	</BKHealCharge>
+	<CRCDUp>
+		<En>The Song of Blade</En>
+		<Ch>锋刃之歌</Ch>
+	</CRCDUp>
+	<DealDmgUp>
+		<En>The Warrior</En>
+		<Ch>善战者</Ch>
+	</DealDmgUp>
+	<SkillShadowCut>
+		<En>Enchantment: Pure Light</En>
+		<Ch>附魔：纯净之光</Ch>
+	</SkillShadowCut>
+	<SkillHeal>
+		<En>Enchantment: The Dark Gift</En>
+		<Ch>附魔：初拥</Ch>
+	</SkillHeal>
+	<ChargeEffectUp>
+		<En>High Precision Engraving</En>
+		<Ch>高精镌刻术</Ch>
+	</ChargeEffectUp>
+	<NoShieldBuff>
+		<En>The Challenger</En>
+		<Ch>挑战者</Ch>
+	</NoShieldBuff>
+	<ShadowCutEffectUp>
+		<En>The Lightbringer</En>
+		<Ch>光明使者</Ch>
+	</ShadowCutEffectUp>
+	<ShadowLevelDown>
+		<En>Deep Erosion</En>
+		<Ch>侵蚀入髓</Ch>
+	</ShadowLevelDown>
+	<LVRoundRestoreUp>
+		<En>Towards The Lighthouse</En>
+		<Ch>向着灯塔</Ch>
+	</LVRoundRestoreUp>
+	<ShaValRestoreDown>
+		<En>The Time of Low Tide</En>
+		<Ch>退潮之时</Ch>
+	</ShaValRestoreDown>
+	<BKDebuffDelay>
+		<En>Toughness Breaker</En>
+		<Ch>万钧破韧</Ch>
+	</BKDebuffDelay>
+	<NoShadowLevel1>
+		<En>The Executor</En>
+		<Ch>处决者</Ch>
+	</NoShadowLevel1>
+
+	<BattleStartHeal_Des>
+		<En>Restore {0} Max HP at the start of each combat. If over-healing is occurred, equally convert the over-healing amount to shield.</En>
+		<Ch>每场战斗开始时，回复{0}最大生命值。溢出的治疗量将等额转化为护盾。</Ch>
+	</BattleStartHeal_Des>
+	<HealEffectUp_Des>
+		<En>Gain Heal Effect Bonus by {0} when restoring HP by consuming Light Value</En>
+		<Ch>通过消耗光照值回复生命值时，治疗效率提高{0}</Ch>
+	</HealEffectUp_Des>
+	<HealAndCharge_Des>
+		<En>When restoring HP by consuming Light Value, charge a random Skill Stone with an amount equal to {0} of the reatore amount</En>
+		<Ch>通过消耗光照值回复生命值时，为随机一个技能石充能，充能量相当于本次回复量的{0}</Ch>
+	</HealAndCharge_Des>
+	<MoreThan60_Des>
+		<En>Gain All DMG Bonus by {0} when current HP is greater than 60% of Max HP</En>
+		<Ch>当前生命值大于最大生命值的60%时，造成伤害提高{0}</Ch>
+	</MoreThan60_Des>
+	<DefenceAllDmg_Des>
+		<En>All DMG Defence increase by {0}</En>
+		<Ch>自身全伤害减免提高{0}</Ch>
+	</DefenceAllDmg_Des>
+	<BKHealCharge_Des>
+		<En>When enemy enters Breakdown status, restore {0} Max HP and {1} Charge Value (randomly distributed among all Skill Stones)</En>
+		<Ch>当敌人进入Breakdown状态时，回复{0}最大生命值以及{1}技能石充能值（随机分配给所有技能石）</Ch>
+	</BKHealCharge_Des>
+	<CRCDUp_Des>
+		<En>Critical Rate increase by {0}, Critical DMG increase by {1}</En>
+		<Ch>暴击率提高{0}，暴击伤害提高{1}</Ch>
+	</CRCDUp_Des>
+	<DealDmgUp_Des>
+		<En>All DMG increase by {0}</En>
+		<Ch>全伤害提高{0}</Ch>
+	</DealDmgUp_Des>
+	<SkillShadowCut_Des>
+		<En>When dealing damage to enemy by skills, reduce Shadow Value with an amount equal to {0} of the damage amount</En>
+		<Ch>通过技能对敌人造成伤害时，降低敌人的暗影值，降低量相当于本次伤害的{0}</Ch>
+	</SkillShadowCut_Des>
+	<SkillHeal_Des>
+		<En>When dealing damage to enemy by skills, restore HP with an amount equal to {0} of the damage amount</En>
+		<Ch>通过技能对敌人造成伤害时，回复自身生命值，回复量相当于本次伤害的{0}</Ch>
+	</SkillHeal_Des>
+	<ChargeEffectUp_Des>
+		<En>Gain Charge Effect Bonus by {0} when charging Skill Stone by consuming Light Value</En>
+		<Ch>通过消耗光照值为技能石充能时，技能石充能效率提高{0}</Ch>
+	</ChargeEffectUp_Des>
+	<NoShieldBuff_Des>
+		<En>Gain All DMG Bonus by {0} when enemy has shield or BUFF</En>
+		<Ch>当敌人持有护盾或增益效果时，自身造成的伤害提高{0}</Ch>
+	</NoShieldBuff_Des>
+	<ShadowCutEffectUp_Des>
+		<En>Gain Shadow Value Reduce Speed Bonus by {0} when reducing Shadow Value by consuming Light Value</En>
+		<Ch>通过消耗光照值削减暗影值时，暗影值削减效率提高{0}</Ch>
+	</ShadowCutEffectUp_Des>
+	<ShadowLevelDown_Des>
+		<En>When the Shadow Level of enemy is degraded, immediately take true damage equal to {0} of Max HP, this effect has 2 rounds trigger interval</En>
+		<Ch>当敌人的暗影等级降低时，立刻受到最大生命值{0}的真实伤害，该效果拥有2回合触发间隔</Ch>
+	</ShadowLevelDown_Des>
+	<LVRoundRestoreUp_Des>
+		<En>Light Value Restore Amount increase by {0}</En>
+		<Ch>回合开始时，光照值回复量提高{0}</Ch>
+	</LVRoundRestoreUp_Des>
+	<ShaValRestoreDown_Des>
+		<En>The Shadow Value Restore Amount of enemy decrease by {0}</En>
+		<Ch>回合开始时，敌人的暗影值回复量降低{0}</Ch>
+	</ShaValRestoreDown_Des>
+	<BKDebuffDelay_Des>
+		<En>When enemy enters Breakdown status, extend the active DEBUFF for 2 rounds, if there is no active DEBUFF, decrease All DMG Defence of enemy during that Breakdown status by an additional 30%</En>
+		<Ch>当敌人进入Breakdown状态时，使生效中的减益效果延长2回合，若无生效中的减益效果，则该次Breakdown状态期间敌人受到的伤害额外提高30%</Ch>
+	</BKDebuffDelay_Des>
+	<NoShadowLevel1_Des>
+		<En>Gain All DMG Bonus by {0} when dealing damage to the enemy with Shadow Level 1</En>
+		<Ch>对暗影等级为1的敌人造成的伤害提高{0}</Ch>
+	</NoShadowLevel1_Des>
+
+	<AtkWillPlus_Des>
+		<En>Aggressive Desire increased: {0}</En>
+		<Ch>攻击欲望提升：{0}</Ch>
+	</AtkWillPlus_Des>
+	<ShadowBackCount_Des>
+		<En>The Shadow Tide of current enemy is available. Current count: {0}{1}<![CDATA[<i><b>Shadow Tide: </b></i>]]>When on Map Layer 1/2/3 and possessing 5/4/3 counts, trigger Shadow Tide. Instantly restore 50% of Max Shadow Value, and increase both All DMG Bonus and All DMG DEF by 50% for 2/3/4 rounds. If the enemy's Shadow Level remains at Lv. 1 continuously, gain 1 count at the beginning of each round. However, when the enemy's Shadow Level changes from Lv. 1, lose 1 count.</En>
+		<Ch>当前敌人的暗影回潮可用。当前计数：{0}{1}<![CDATA[<i><b>暗影回潮：</b></i>]]>当处于地图第1/2/3层时，当拥有5/4/3层计数时，触发暗影回潮。立刻将暗影值回复至最大暗影值的50%，全伤害与全伤害减免提高50%，持续2/3/4回合。当敌人的暗影等级持续处于等级1时，每回合开始时获得1层计数。当敌人的暗影等级从等级1中改变后，失去1层计数。</Ch>
+	</ShadowBackCount_Des>
+	<ShadowBack_Des>
+		<En>Shadow Tide is in effect. Remaining: {0} rounds</En>
+		<Ch>暗影回潮生效中。剩余回合数：{0}</Ch>
+	</ShadowBack_Des>
+	<BreakDown_Des>
+		<En>Breakdown status is in effect. Remaining: {0} rounds</En>
+		<Ch>Breakdown状态生效中。剩余回合数：{0}</Ch>
+	</BreakDown_Des>
+	<BreakDownResistance_Des>
+		<En>The Breakdown mechanism of current enemy is temporarily unavailable. Remaining: {0} rounds</En>
+		<Ch>当前敌人的Breakdown机制暂不可用。剩余回合数：{0}</Ch>
+	</BreakDownResistance_Des>
+	<SB_SecretFeather_Des>
+		<En>Secret Feather status is in effect. Remaining: {0} rounds</En>
+		<Ch>秘羽状态生效中。剩余回合数：{0}</Ch>
+	</SB_SecretFeather_Des>
+	<Mushroom_Des>
+		<En>Current Corrupt Spore number: {0}</En>
+		<Ch>当前腐败孢子计数：{0}</Ch>
+	</Mushroom_Des>
+	<LostChapter_InCharge_Des>
+		<En>Magic Charge status is in effect. Remaining: {0} rounds</En>
+		<Ch>法术充能状态生效中。剩余回合数：{0}</Ch>
+	</LostChapter_InCharge_Des>
+	<NWS_Shield_Des>
+		<En>The Darkness Shield is in effect.</En>
+		<Ch>晦暗护盾生效中</Ch>
+	</NWS_Shield_Des>
+	<NWS_Weakness_Des>
+		<En>Weakness status is in effect. Remaining: {0} rounds</En>
+		<Ch>虚弱状态生效中。剩余回合数：{0}</Ch>
+	</NWS_Weakness_Des>
+	<SS_CagedLight_Des>
+		<En>Current Imprisoned Light number: {0}</En>
+		<Ch>当前囚禁微光计数：{0}</Ch>
+	</SS_CagedLight_Des>
+	<SS_LightCage_Des>
+		<En>Light Cage status is in effect. Remaining: {0} rounds</En>
+		<Ch>光之囚笼状态生效中。剩余回合数：{0}</Ch>
+	</SS_LightCage_Des>
+	<SS_DirtyRise_Des>
+		<En>Impurity Rise status is in effect. Remaining: {0} rounds</En>
+		<Ch>污浊飞升状态生效中。剩余回合数：{0}</Ch>
+	</SS_DirtyRise_Des>
+	<SE_Skillstone_Des>
+		<En>Shadow Skill Stone - current charge progress: {0}</En>
+		<Ch>暗影技能石-当前充能进度：{0}</Ch>
+	</SE_Skillstone_Des>
+	<SE_Engraver_Des>
+		<En>Engraving Mania status is in effect. Recorded Shadow Value: {0}. Remaining: {1} rounds</En>
+		<Ch>镌刻术狂热状态生效中。已记录的暗影值消耗量：{0}。剩余回合数：{1}</Ch>
+	</SE_Engraver_Des>
+	<MB_Alfa_Des>
+		<En>Current Spell Form: α</En>
+		<Ch>当前法术形态：α</Ch>
+	</MB_Alfa_Des>
+	<MB_Beta_Des>
+		<En>Current Spell Form: β</En>
+		<Ch>当前法术形态：β</Ch>
+	</MB_Beta_Des>
+	<MB_Gama_Des>
+		<En>Current Spell Form: γ</En>
+		<Ch>当前法术形态：γ</Ch>
+	</MB_Gama_Des>
+	<MB_InCharge_Des>
+		<En>Magic Siphon status is in effect. Remaining: {0} rounds</En>
+		<Ch>法术虹吸状态生效中。剩余回合数：{0}</Ch>
+	</MB_InCharge_Des>
+	<Knight_MustCrit_Des>
+		<En>The Determined Slash in next {0} time(s) will must be critical.</En>
+		<Ch>下{0}次坚定挥斩必定暴击</Ch>
+	</Knight_MustCrit_Des>
+	<Knight_InDefence_Des>
+		<En>Holy Guard status is in effect</En>
+		<Ch>神圣守卫状态生效中</Ch>
+	</Knight_InDefence_Des>
+	<Knight_LightBlade_Des>
+		<En>Sacred Blade effect: current holding {0} level(s). Remaining: {1} rounds</En>
+		<Ch>神圣剑刃效果：当前拥有{0}层。剩余回合数：{1}</Ch>
+	</Knight_LightBlade_Des>
+
+	<Mage_MLMark_Des>
+		<En>Current Moon Mark number: {0}</En>
+		<Ch>当前月之印记计数：{0}</Ch>
+	</Mage_MLMark_Des>
+
+	<ThankYou>
+		<En>Congratulations! You have successfully defeated the final BOSS. {0}At the same time, I sincerely thank you for playing this Demo. This project has been independently developed over 4 months and serves as a gift from the author as he bids farewell to his student days, marking a milestone in entering a new stage of life. May both you and I, like the name of this Demo, continue to hold onto the "Tiny Light" in our hearts, no matter how dark it may be ahead, and remain true to our original intentions as we forge ahead. {1} Click "OK" to return to the entrance.</En>
+		<Ch>恭喜你，你成功战胜了最终BOSS。{0}同时，也真诚地感谢你游玩这个Demo。本项目历经4个月独立开发，是作者告别学生时代的礼物，也是进入新的人生阶段的里程碑。愿你我都能像这个Demo的名字那样，不论前方如何黑暗，仍坚守心中的“微光”，不忘初心，砥砺前行。{1}点击确认将返回至入口处。</Ch>
+	</ThankYou>
+</Local>
